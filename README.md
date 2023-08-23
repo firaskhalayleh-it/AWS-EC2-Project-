@@ -59,7 +59,7 @@ Before you begin, you'll need:
 2. Create a systemd service unit file for your app:
    
    ```sh
-   sudo nano /etc/systemd/system/book-management-app.service
+   sudo nano /etc/systemd/system/app.service
    ```
 
 3. Add the following content to the file, adjusting paths as necessary:
